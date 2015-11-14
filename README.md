@@ -7,7 +7,7 @@ Each change will trigger a rebuild and call golint (if available) on the changed
 
 Gobot is a 100% pure go solution.
 
-![screenshot](https://github.com/fredjeck/status/raw/master/img/screenshot.png)
+![screenshot](https://github.com/fredjeck/gobot/raw/master/img/screenshot.png)
 
 ## Installation
 Assuming your GOPATH/bin is in your PATH, simply get gobot : 
